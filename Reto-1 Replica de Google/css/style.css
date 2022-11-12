@@ -1,0 +1,158 @@
+body {
+    background-color: rgb(252, 252, 252);
+    margin: 0;
+}
+
+
+.ContenedorPrincipal {
+    background-color: rgb(117, 209, 11);
+    text-align: center;
+}
+
+.main {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center; 
+}
+
+
+.Contenedor1 {
+    background-color: rgb(254, 249, 0);
+    height: 8vh;
+    display: flex;
+    justify-content: center;    
+}
+
+.Contenedor2 {
+
+    background-color: rgb(255, 255, 255);
+    height: 80vh;
+    width: 80vh;
+    text-align: center;
+   
+
+}
+
+.Contenedor3 {
+
+    background-color: rgb(255, 0, 0);
+    height: 14vh;
+  
+}
+
+
+.Subcontenedor1 {
+
+    background-color: rgb(255, 0, 0);
+    height: 30vh;
+   
+}
+
+.Subcontenedor2 {
+
+    background-color: rgb(0, 181, 85);
+    height: 8vh;
+   
+}
+
+
+
+.Subcontenedor3 {
+
+    background-color: rgb(245, 0, 0);
+    height: 5vh;
+    display: flex;
+   
+}
+
+.Subcontenedor4 {
+
+    background-color: rgb(210, 187, 15);
+    height: 36vh;
+   
+}
+
+.Busca1{
+    background-color: rgb(255, 255, 255);
+    height: 8vh;
+    width: 110vh;
+    text-align:left; 
+    display: flex;
+    text-indent: 30pt; 
+    
+}
+
+.Busca2{
+    background-color: rgb(255, 255, 255);
+    height: 8vh;
+    width: 110vh;  
+    text-align:right;  
+    text-indent: 30pt; 
+    display: flex;
+
+    justify-content: right;  
+
+}
+
+
+.Subcontenedor5{
+    background-color: rgb(156, 14, 147);
+    height: 3vh;
+}
+
+.Subcontenedor6{
+    background-color: rgb(15, 106, 210);
+    height: 3vh;
+    width: 71vh;
+}
+
+.Subcontenedor7{
+    background-color: rgb(138, 109, 29);
+    height: 3vh;
+    width: 71vh;   
+}
+
+.Subcontenedor8{
+    background-color: rgb(25, 182, 5);
+    height: 3vh;
+    width: 71vh;  
+}
+
+
+
+.ultimalinia{
+
+    background-color: rgb(234, 7, 120);
+    height: 10vh;
+    display: flex;
+
+}
+
+.Dentro1{
+
+   background-color: rgb(108, 108, 108);
+   height: 10vh;
+
+}
+.Dentro2{
+
+    background-color: rgb(201, 201, 201);
+    height: 20vh;
+ 
+ }
+
+ .Dentro3{
+
+    background-color: rgb(234, 7, 120);
+    height: 5vh;
+    width: 40vh;
+ 
+ }
+
+ .Dentro4{
+ 
+     background-color: rgb(2, 74, 207);
+     height: 5vh;
+     width: 40vh;
+  
+  }
