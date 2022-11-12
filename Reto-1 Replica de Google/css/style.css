@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(252, 252, 252);
+    background-color: rgb(186, 52, 52);
     margin: 0;
 }
 
@@ -10,14 +10,14 @@ body {
 }
 
 .main {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(36, 176, 15);
     display: flex;
     justify-content: center; 
 }
 
 
 .Contenedor1 {
-    background-color: rgb(254, 249, 0);
+    background-color: rgb(38, 181, 2);
     height: 8vh;
     display: flex;
     justify-content: center;    
@@ -25,7 +25,7 @@ body {
 
 .Contenedor2 {
 
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(188, 22, 22);
     height: 80vh;
     width: 80vh;
     text-align: center;
