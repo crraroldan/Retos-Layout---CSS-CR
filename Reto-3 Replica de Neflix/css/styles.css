@@ -1,0 +1,197 @@
+body{
+    background-color: blue;
+    margin: 0;
+}
+
+.container1{
+
+    background-color: brown;
+    height: 100vh;
+    padding: 1px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;  
+
+
+}
+
+.box1{
+   
+    grid-column-start: 1; 
+    grid-column-end: 5; 
+    grid-row-start: 1; 
+    grid-row-end: 2;
+}
+
+.box5{
+   
+    grid-column-start: 1; 
+    grid-column-end: 5; 
+    grid-row-start: 2; 
+    grid-row-end: 3;
+}
+
+.box9{
+   
+    grid-column-start: 1; 
+    grid-column-end: 5; 
+    grid-row-start: 3; 
+    grid-row-end: 4;
+}
+
+.box13{
+
+    grid-column-start: 1; 
+    grid-column-end: 5; 
+    grid-row-start: 4;
+    grid-row-end: 5;
+    
+}
+
+
+
+
+.box1{
+    background-color: rgb(4, 0, 255) ;
+    text-align: center;  
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;  
+    grid-template-rows: 1fr 1fr;  
+
+}
+
+.box2{
+    background-color: rgb(4, 0, 255) ;
+    text-align: center;
+}
+
+.box3{
+    background-color: rgb(4, 0, 255) ;
+    text-align: center;
+}
+
+.box4{
+    background-color: rgb(4, 0, 255) ;
+    text-align: center;
+}
+
+.box5{
+    background-color: rgb(255, 0, 0) ;
+    text-align: center;  
+    padding: 5px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;  
+}
+
+.box6{
+    background-color: rgb(255, 0, 0) ;
+    text-align: center;
+    
+}
+
+.box7{
+    background-color: rgb(255, 0, 0) ;
+    text-align: center;
+}
+
+.box8{
+    background-color: rgb(255, 4, 4) ;
+    text-align: center;
+}
+
+.box9{
+    background-color: rgb(38, 255, 0) ;
+    text-align: center;
+    padding: 5px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;  
+}
+
+
+
+.box10{
+    background-color: rgb(38, 255, 0) ;
+    text-align: center;
+}
+
+.box11{
+    background-color: rgb(38, 255, 0) ;
+    text-align: center;
+}
+
+.box12{
+    background-color: rgb(38, 255, 0) ;
+    text-align: center;
+}
+
+.box13{
+    background-color: rgb(0, 255, 200) ;
+    text-align: center;
+}
+
+.box14{
+    background-color: rgb(0, 255, 200) ;
+    text-align: center;
+}
+
+.box15{
+    background-color: rgb(0, 255, 200) ;
+    text-align: center;
+}
+
+.box16{
+    background-color: rgb(0, 255, 200) ;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.caj1{
+    background-color: rgb(66, 65, 146) ;
+    text-align: center;  
+}
+
+.caj2{
+    background-color: rgb(51, 188, 6) ;
+    text-align: center;  
+}
+
+
+
+.caj3{
+    background-color: rgb(0, 173, 35) ;
+    text-align: center;  
+}
+
+
+
+
+.caj4{
+    background-color: rgb(238, 27, 136) ;
+    text-align: center;  
+}
+
+.subcaja1{
+    background-color: rgb(238, 27, 136) ;
+    text-align: center;  
+    padding: 5px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;  
+
+}
+
+.subcaja2{
+    background-color: rgb(8, 19, 222) ;
+    text-align: center;  
+    padding: 5px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;  
+}
+
+
