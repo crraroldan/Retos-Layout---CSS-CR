@@ -1,0 +1,256 @@
+body{
+    
+    margin: 0;
+    background-color: rgb(54, 192, 0);
+
+    background-image: url(../img/fondo.png);  
+
+    
+}
+
+.ContenedorPrincipal {
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+}
+
+
+
+.Contenedor1 {
+    background-color: rgba(0, 169, 172, 0);
+    height: 8vh;
+    display: flex;
+    justify-content: center;    
+}
+
+
+.Contenedor2 {
+    background-color: rgba(205, 108, 5, 0);
+    display: flex;
+    justify-content: center; 
+}
+
+
+.Contenedor3 {
+
+    background-color: rgba(136, 84, 0, 0);
+    height: 32vh;
+
+    
+  
+}
+
+.Central{
+
+    background-color: rgba(144, 34, 34, 0);
+    height: 60vh;
+    width: 100vh;
+    text-align: center; 
+
+    
+   
+    
+
+}
+
+.Buscador{
+    background-color: rgb(255, 255, 255);
+    height: 8vh;
+    width: 100vh;
+    position: relative; top: 100px;
+    border-radius: 10px;
+    text-align:right;   
+
+    
+   
+
+    
+
+}
+
+
+
+/* ----------------------------------------------------------------------------- */
+
+
+.Subcontenedor1 {
+
+    background-color: rgba(0, 195, 221, 0);
+    height: 30vh;
+ 
+}
+
+.Subcontenedor2 {
+    background-color: rgba(116, 3, 122, 0);
+    height: 8vh;
+}
+
+
+.Subcontenedor3 {
+
+    background-color: rgba(167, 154, 7, 0);
+    height: 5vh;
+    display: flex;
+}
+
+.Subcontenedor4 {
+
+    background-color: rgba(243, 122, 122, 0);
+    height: 30vh;
+   
+}
+
+/* ----------------------------------------------------------------------------- */
+
+
+.Busca1{
+    background-color: rgba(223, 223, 0, 0);
+    height: 8vh;
+    width: 110vh;
+    text-align:left;   
+    display: flex;
+    text-indent: 1pt;   
+    
+}
+
+.Busca2{
+    background-color: rgba(199, 116, 7, 0);
+    height: 8vh;
+    width: 110vh;  
+    text-align:left;  
+    text-indent: 20pt; 
+    display: flex;
+    justify-content: left;  
+
+}
+
+.Busca3{
+    background-color: rgba(223, 223, 0, 0);
+    height: 8vh;
+    width: 110vh;
+    text-align:right; 
+    display: flex;
+    text-indent: 10pt; 
+    justify-content: right;  
+}
+
+.Busca4{
+    background-color: rgba(199, 116, 7, 0);
+    height: 8vh;
+    width: 110vh;  
+    text-align:left;  
+    text-indent: 20pt; 
+    display: flex;
+    justify-content: left;  
+    
+
+}
+
+
+
+/* ----------------------------------------------------------------------------- */
+
+
+
+
+
+
+.Subcontenedor5{
+    background-color: rgba(68, 254, 0, 0);
+    height: 6vh;  
+    width: 160vh;
+    text-align:right
+    
+    
+
+    
+
+
+  
+   
+}
+
+
+/* ------------------------------------------------- */
+.Subcontenedor6{
+    background-color: rgba(77, 199, 61, 0);
+    height: 20vh;
+    width: 30vh;
+    margin: 10px;
+
+    
+}
+
+.Subcontenedor7{
+    background-color: rgba(128, 156, 2, 0);
+    height: 20vh;
+    width: 30vh;   
+    margin: 10px;
+    
+}
+
+.Subcontenedor8{
+    background-color: rgba(1, 116, 110, 0);
+    height: 20vh;
+    width: 30vh;  
+    margin: 10px;
+    
+}
+
+
+.Subcontenedor9{
+    background-color: rgba(255, 2, 225, 0);
+    height: 20vh;
+    width: 30vh;  
+    border: 5px;
+    margin: 10px;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+.ultimalinia{
+
+    background-color: rgba(47, 31, 128, 0);
+    height: 22vh;
+    display: flex;
+    margin: 10px;
+    width: 150vh;  
+    position: relative; left: 100px;
+    justify-content: center; 
+    
+
+
+}
+
+.Dentro1{
+
+   background-color: rgba(202, 106, 106, 0);
+   height: 10vh;
+    
+
+}
+.Dentro2{
+
+    background-color: rgba(165, 190, 6, 0);
+    height: 20vh;
+    text-align: center;  
+    text-indent: 10pt; 
+    display: flex;
+    justify-content: center;  
+
+}
+
+.Dentro3{
+
+    background-color: rgba(71, 149, 3, 0);
+    height: 5vh;
+    width: 40vh;
+    text-align:right; 
+}
+
+.Dentro4{
+ 
+     background-color: rgba(0, 176, 18, 0);
+     height: 5vh;
+     width: 40vh;
+     text-align:left;  
+}
