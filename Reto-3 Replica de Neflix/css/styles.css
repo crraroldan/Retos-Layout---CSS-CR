@@ -1,11 +1,11 @@
 body{
-    background-color: blue;
+    background-color: rgb(0, 0, 0);
     margin: 0;
 }
 
 .container1{
 
-    background-color: brown;
+    background-color: rgb(0, 0, 0);
     height: 100vh;
     padding: 1px;
     display: grid;
@@ -52,96 +52,101 @@ body{
 
 
 .box1{
-    background-color: rgb(4, 0, 255) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;  
     padding: 5px;
     display: grid;
     grid-template-columns: 1fr 1fr;  
-    grid-template-rows: 1fr 1fr;  
+    grid-template-rows: 1fr 1fr;
+    height: 100px;
 
 }
 
 .box2{
-    background-color: rgb(4, 0, 255) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
 .box3{
-    background-color: rgb(4, 0, 255) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
 .box4{
-    background-color: rgb(4, 0, 255) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
 .box5{
-    background-color: rgb(255, 0, 0) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;  
     padding: 5px;
     display: grid;
     grid-template-rows: 1fr 1fr;  
+    height: 180px;
 }
 
 .box6{
-    background-color: rgb(255, 0, 0) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
     
 }
 
 .box7{
-    background-color: rgb(255, 0, 0) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
 .box8{
-    background-color: rgb(255, 4, 4) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
 .box9{
-    background-color: rgb(38, 255, 0) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
     padding: 5px;
     display: grid;
     grid-template-rows: 1fr 1fr;  
+    height: 180px;
 }
 
 
 
 .box10{
-    background-color: rgb(38, 255, 0) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
 .box11{
-    background-color: rgb(38, 255, 0) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
 .box12{
-    background-color: rgb(38, 255, 0) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
 .box13{
-    background-color: rgb(0, 255, 200) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
 .box14{
-    background-color: rgb(0, 255, 200) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
 .box15{
-    background-color: rgb(0, 255, 200) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
+    text-align:left; 
+    text-indent: 10pt; 
 }
 
 .box16{
-    background-color: rgb(0, 255, 200) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;
 }
 
@@ -153,45 +158,183 @@ body{
 
 
 .caj1{
-    background-color: rgb(66, 65, 146) ;
-    text-align: center;  
+    background-color: rgb(0, 0, 0) ;
+     text-align: center;   
+    display: flex;
+    
+
 }
+
+
+
 
 .caj2{
-    background-color: rgb(51, 188, 6) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;  
+    display: flex; 
+
+    
+    
+
 }
 
-
+/* ---------------------------------------------------------- */
 
 .caj3{
-    background-color: rgb(0, 173, 35) ;
-    text-align: center;  
+    background-color: rgb(0, 0, 0) ;
+    text-align:left; 
+    text-indent: 10px; 
+    height: 40px;
 }
-
-
 
 
 .caj4{
-    background-color: rgb(238, 27, 136) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;  
+    display: flex;
+    justify-content: left;  
+    justify-content: center;
+    height: 130px;
 }
 
+
+/* ---------------------------------------------------------- */
+
+
 .subcaja1{
-    background-color: rgb(238, 27, 136) ;
+    background-color: rgb(0, 0, 0) ;
     text-align: center;  
     padding: 5px;
-    display: grid;
+    display: grid; 
     grid-template-rows: 1fr 1fr;  
+    width: 200px;
+    height: 50px;
+
+    
+    
 
 }
 
 .subcaja2{
-    background-color: rgb(8, 19, 222) ;
-    text-align: center;  
-    padding: 5px;
+    background-color: rgb(0, 0, 0) ;
+    text-align: center; 
+    padding: 5px; 
     display: grid;
-    grid-template-rows: 1fr 1fr;  
+    grid-template-rows: 1fr 1fr;
+    width: 450px;
+    text-indent: 10pt; 
+    display: flex;
+   
 }
 
+.subcaja3{
+
+    background-color: rgb(0, 0, 0) ;
+    text-align: center;   
+    padding: 5px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    width: 640px;
+    text-indent: 10pt; 
+    display: flex;
+    justify-content: right;  
+   
+
+}
+
+
+
+
+.peli1{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    height: 120px;
+
+    border: 5px;
+    margin: 10px;
+}
+
+.peli2{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    height: 120px;
+
+    border: 5px;
+    margin: 10px;
+}
+
+.peli3{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    height: 120px;
+
+    border: 5px;
+    margin: 10px;
+}
+
+.peli4{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    height: 120px;
+
+    border: 5px;
+    margin: 10px;
+}
+
+.peli5{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    height: 120px;
+
+    border: 5px;
+    margin: 10px;
+}
+
+
+
+
+.peli6{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    height: 120px;
+
+    border: 5px;
+    margin: 10px;
+}
+
+.peli7{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    height: 120px;
+
+    border: 5px;
+    margin: 10px;
+}
+
+.peli8{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    height: 120px;
+
+    border: 5px;
+    margin: 10px;
+}
+
+.peli9{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    height: 120px;
+
+    border: 5px;
+    margin: 10px;
+}
+
+.peli10{
+    background-color: rgb(0, 0, 0);
+    width: 220px;
+    height: 120px;
+
+    border: 5px;
+    margin: 10px;
+}
 
